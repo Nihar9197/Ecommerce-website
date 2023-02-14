@@ -13,28 +13,16 @@
       "id": 2
     },
     {
-      "name": "test ",
-      "password": "test123",
-      "email": "tes@gmail.com",
-      "id": 3
-    },
-    {
-      "name": "xyz1 jobs",
-      "password": "123",
-      "email": "nil@gmail.com",
-      "id": 4
-    },
-    {
-      "name": "peter ",
+      "name": "bruce",
       "password": "113",
       "email": "peter@gmail.com",
-      "id": 5
+      "id": 3
     },
     {
       "name": "bruce",
       "password": "123",
-      "email": "bruce@gmail.com",
-      "id": 6
+      "email": "peter@gmail.com",
+      "id": 4
     }
   ]
 }
